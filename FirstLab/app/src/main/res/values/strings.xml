@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Игра - На все 100!</string>
+    <string name="rules">Правила игры:\nВы играете с компьютером, у кого первым выпадет 100 или более очков, тот и выиграл!</string>
+    <string name="your_points">Ваш счёт:</string>
+    <string name="robot_points_text">Счёт компьютера:</string>
+    <string name="cubes_text">Кубики</string>
+    <string name="second_cube_points">-</string>
+    <string name="first_cube_points">-</string>
+    <string name="robot_points">0</string>
+    <string name="your_points_number">0</string>
+    <string name="btn_text">Сделать бросок!</string>
+    <string name="title_activity_win">WinActivity</string>
+    <string name="win_text">Победа!</string>
+    <string name="loose_text">Проигрыш!</string>
+    <string name="winimg_text">WinIMG</string>
+    <string name="loose_img">loose_img</string>
+</resources>
